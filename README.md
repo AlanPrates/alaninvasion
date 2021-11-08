@@ -1,4 +1,4 @@
-  ## Olá eu sou estudante de programação e amante em tecnologia !!!
+  ## Olá eu sou estudante de programação e amante de tecnologia !!!
   <div align="center">
   <a href="https://github.com/AlanPrates">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlanPrates&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
