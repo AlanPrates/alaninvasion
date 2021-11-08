@@ -1,4 +1,4 @@
-  ## Olá eu sou estudante de programação Pela Instituição IFBA!
+  ## Olá eu sou estudante de programação e amante em tecnologia !!!
   <div align="center">
   <a href="https://github.com/AlanPrates">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlanPrates&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -6,7 +6,7 @@
   </div>
 
  
-<div align="center">
+<div align="center"><br>
 <!--  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
   <a href="https://instagram.com/alaninvasion" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <!--	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
